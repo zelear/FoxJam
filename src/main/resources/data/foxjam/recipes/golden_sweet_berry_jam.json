@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GJG",
+    "GGG"
+  ],
+  "key": {
+    "J": { "item": "foxjam:sweet_berry_jam" },
+    "G": { "item": "minecraft:gold_nugget" }
+  },
+  "result": {
+    "item": "foxjam:golden_sweet_berry_jam",
+    "count": 1
+  }
+}

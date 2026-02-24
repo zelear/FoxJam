@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "SJS",
+    "BBB"
+  ],
+  "key": {
+    "B": { "item": "minecraft:sweet_berries" },
+    "S": { "item": "foxjam:sugar_cube" },
+    "J": { "item": "foxjam:jar" }
+  },
+  "result": {
+    "item": "foxjam:sweet_berry_jam",
+    "count": 1
+  }
+}
